@@ -1,4 +1,4 @@
-/*Program to  print capital-B using asterisks*/
+/*Program to  print capital-A using asterisks*/
 #include <stdio.h>
 int main()
 {
